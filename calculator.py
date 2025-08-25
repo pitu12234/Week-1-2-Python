@@ -1,0 +1,13 @@
+from  math import *
+num1= float  (input("enter the first number :"))
+num2= float (input ("enter the second number :"))
+add=(num1)+ (num2)
+sub=(num1-num2)
+mul=(num1*num2)
+div=(num1/num2)
+mod=(num1%num2)
+print("addition is :",add)
+print("subtraction is :",sub)
+print("multiplication is :",mul)
+print("division is : ",round(div, 3))
+print("module  is : ",mod)
