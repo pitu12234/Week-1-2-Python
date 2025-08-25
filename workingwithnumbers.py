@@ -6,10 +6,10 @@ sum=-5.11233
 print (abs(sum)) #gives absolute value 5
 print (pow(3,3)) #power of numbers 
 print (min(3,2)) #gives the minimum value 
-print (round(3.5)) #round off number 
+print (round(3.5)) #round off number to the nearest 
 from math import * #imports extra maths functions
 print (sqrt(196)) #gives the under root value
-print (floor(-5.1)) #round off towards downward 
+print (floor(-5.1)) #always round down 
 print (int(5.9)) #cuts off decimal
-print (ceil(9.1))
-print (round(4.3))
+print (ceil(9.1)) #round up ......
+print ("finish")
