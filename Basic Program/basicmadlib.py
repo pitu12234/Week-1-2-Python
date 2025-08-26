@@ -1,4 +1,4 @@
-colour= input("enter the colour: ")
+colour= input("enter the colour:")
 noun= input("enter the mutiple noun: ")
 crush = input("enter the  crush name: ")
 print("roses are "+colour )

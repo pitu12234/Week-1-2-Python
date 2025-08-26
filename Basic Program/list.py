@@ -1,6 +1,6 @@
 friends= ["shazeb", "qasim","mudassar", "saad", "umair "]
 print(friends) #print list 
-friends[4]="jahangir" #change in list 
+friends[4]="jahangir" #change  in list 
 print(friends)
 print(friends[0:3]) #range .
 
