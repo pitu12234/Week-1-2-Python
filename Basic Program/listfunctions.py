@@ -1,7 +1,7 @@
 number= [12,34,1,67,9,8,12,44]
 friends= ["shazeb", "qasim","mudassar", "saad", "umair"]
 
-friends.extend(number)          #combine two  list
+friends.extend(number)          #combine two   list
 friends.append("tariq")         #adding elements to the list 
 friends.insert(1,"bus")         #adding elements in the desire pos
 friends.remove("shazeb")       #remove the specific element 
