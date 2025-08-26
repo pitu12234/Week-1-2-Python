@@ -1,6 +1,0 @@
-colour= input("enter the colour:")
-noun= input("enter the mutiple noun: ")
-crush = input("enter the  crush name: ")
-print("roses are "+colour )
-print ("violets are "+noun)
-print("I love ",crush)
